@@ -1,0 +1,30 @@
+﻿Chipset,Code Name,sSpec Number,Part numbers,Release Date,Bus Interface,Link Speed,Intel Optane Memory support,SATA 6 Gbit/s,SATAe,PCIe M.2,Wireless MAC,USB ports v2.0,USB ports v3.2 Gen 1x1,USB ports v3.2 Gen 2x1,USB ports v3.2 Gen 2x2,Rocket Lake support,TDP,PCIe Graphics,PCIe NVMe,Socket
+H410,Comet Lake,SRH1D(A0),FH82H410,Q2 2020,DMI 3.0,×4 (3.93 GB/s),No,4,No,Yes,No,Up to 10,Up to 4,,,No,6.0 W,PCIe 3.0 x16,PCIe 2.0 x4,LGA 1200
+B460,Comet Lake,SRH1C(A0),FH82B460,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Yes,6,No,Yes,No,Up to 12,Up to 8,,,No,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+H470,Comet Lake,SRH14(A0),FH82H470,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Yes,6,No,Yes,WiFi 6,Up to 14,Up to 8,Up to 4,,Yes,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+Q470,Comet Lake,SRH1A(A0),FH82Q470,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Yes,6,No,Yes,WiFi 6,Up to 14,Up to 10,Up to 6,,Yes,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+Z490,Comet Lake,SRH13(A0),FH82Z490,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Yes,6,No,Yes,WiFi 6,Up to 14,Up to 10,Up to 6,,Yes,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+W480,Comet Lake,SRH19(A0),FH82W480,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Yes,8,No,Yes,WiFi 6,Up to 14,Up to 10,Up to 8,,Yes,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+H420E,Comet Lake,SRH8W(A0),FH82H420E,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Unknown,4,No,Unknown,No,Up to 10,Up to 6,,,Unknown,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+Q470E,Comet Lake,SRJ7X(A0),FH82Q470E,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Unknown,6,No,Unknown,No,14,Up to 10,Up to 6,,Unknown,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+W480E,Comet Lake,SRJ7Y(A0),FH82W480E,Q2 2020,DMI 3.0,×4 (3.93 GB/s),Unknown,8,No,Unknown,No,14,Up to 10,Up to 8,,Unknown,6.0 W,PCIe 3.0 x16,PCIe 3.0 x4,LGA 1200
+H510,Rocket Lake,SRKM2(B1),FH82H510,Q1 2021,DMI 3.0,×4 (3.93 GB/s),No,4,No,Yes,WiFi 6,Up to 10,Up to 4,,,Yes,6.0 W,PCIe 4.0 x16,PCIe 3.0 x4,LGA 1200
+B560,Rocket Lake,SRKM5(B1),FH82B560,Q1 2021,DMI 3.0,×4 (3.93 GB/s),Yes,6,No,Yes,WiFi 6,Up to 12,Up to 6,Up to 4,Up to 2,Yes,6.0 W,PCIe 4.0 x16,PCIe 4.0 x4,LGA 1200
+H570,Rocket Lake,SRKM6(B1),FH82H570,Q1 2021,DMI 3.0,×8† (7.86 GB/s),Yes,6,No,Yes,WiFi 6,Up to 14,Up to 8,Up to 4,Up to 2,Yes,6.0 W,PCIe 4.0 x16,PCIe 4.0 x4,LGA 1200
+Z590,Rocket Lake,SRKM3(B1),FH82Z590,Q1 2021,DMI 3.0,×8† (7.86 GB/s),Yes,6,No,Yes,WiFi 6,Up to 14,Up to 10,Up to 10,Up to 3,Yes,6.0 W,PCIe 4.0 x16,PCIe 4.0 x4,LGA 1200
+W580,Rocket Lake,SRKM7(B1),FH82W580,Q1 2021,DMI 3.0,×8† (7.86 GB/s),Yes,8,No,Yes,WiFi 6,Up to 14,Up to 10,Up to 10,Up to 3,Yes,6.0 W,PCIe 4.0 x16,PCIe 4.0 x4,LGA 1200
+Z690,Alder Lake,SRKZZ(B1),FH82Z690,Q4 2021,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,10,10,4,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+W680,Alder Lake,SRL00(B1),FH82W680,Q2 2022,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,10,10,4,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+Q670,Alder Lake,SRL01(B1),FH82Q670,Q1 2022,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,10,8,4,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+H670,Alder Lake,SRKZY(B1),FH82H670,Q1 2022,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,8,4,2,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+B660,Alder Lake,SRKZX(B1),FH82B660,Q1 2022,DMI 4.0,✕4 (7.88 GB/s),Yes,4,No,Yes,WiFi 6E,12,6,4,2,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+H610,Alder Lake,SRKZW(B1),FH82H610,Q1 2022,DMI 4.0,✕4 (7.88 GB/s),No,4,No,Yes,WiFi 6E,10,4,2,,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+R680E,Alder Lake,SRL2S(B1),FH82R680E,Q1 2022,DMI 4.0,✕8 (15.76 GB/s),No,8,No,Unknown,WiFi 5,14,10,10,4,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+Q670E,Alder Lake,SRL2R(B1),FH82Q670E,Q1 2022,DMI 4.0,✕8 (15.76 GB/s),No,8,No,Unknown,WiFi 5,14,10,8,4,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+H610E,Alder Lake,SRL2T(B1),FH82H610E,Q1 2022,DMI 4.0,✕4 (7.88 GB/s),No,4,No,Unknown,WiFi 6E,10,4,2,,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+Z790,Raptor Lake,SRM8P(B1),FH82Z790,Q4 2022,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,10,10,5,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+H770,Raptor Lake,SRM8T(B1),FH82H770,Q1 2023,DMI 4.0,✕8 (15.76 GB/s),Yes,8,No,Yes,WiFi 6E,14,8,4,2,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+B760,Raptor Lake,SRM8V(B1),FH82B760,Q1 2023,DMI 4.0,✕4 (7.88 GB/s),Yes,4,No,Yes,WiFi 6E,12,6,4,2,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1700
+Z890,Arrow Lake,SRPEZ(B0),FH82Z890,Q4 2024,DMI 4.0,✕8 (15.76 GB/s),No,8,,Yes,WiFi 6E,14,10,10,5,,6.0 W,PCIe 5.0 x16,PCIe 5.0 x4,LGA 1851
+B860,Arrow Lake,SRPEW(B0),FH82B860,Q1 2025,DMI 4.0,✕4 (7.88 GB/s),No,4,,Yes,WiFi 6E,12,6,4,2,,6.0 W,PCIe 5.0 x16,PCIe 5.0 x4,LGA 1851
+H810,Arrow Lake,SRPEV(B0),FH82H810,Q1 2025,DMI 4.0,✕4 (7.88 GB/s),No,4,,Yes,WiFi 6E,10,4,2,,,6.0 W,PCIe 5.0 x16,PCIe 4.0 x4,LGA 1851

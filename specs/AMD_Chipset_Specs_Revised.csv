@@ -1,0 +1,21 @@
+﻿Chipset,Release date,PCIe support Graphics,PCIe support NVMe,PCIe support Total Usable Lanes,Multi GPU CrossFire,Multi GPU SLI,USB support USB 2.0,USB support USB 3.2 Gen 1x1,USB support USB 3.2 Gen 2x1,USB support USB 3.2 Gen 2x2,USB support USB 4 Gen 3x2,Storage features SATA ports,Storage features RAID,Storage features AMD StoreMI,Processor overclocking,TDP,CPU support Zen,CPU support Zen+,CPU support Zen 2,CPU support Zen 3,CPU support Zen 4,CPU support Zen 5,ECC memory,Architecture,Part number,Socket
+A300,2/17/2025,PCIe 3.0 x16,PCIe 3.0 x4,24,,,,,,,,,Yes[22],No[23],No,~120 μW[c],Yes[24][25],Yes[24][25],Yes[24][25],Yes[24][25],No,No,No,Knoll Express[26],100-CG2978 218-0892000 KNOLL1,AM4
+X300,2/17/2025,PCIe 3.0 x16,PCIe 3.0 x4,24,,,,,,,,,Yes[22],No[23],Yes,~120 μW[c],Yes[27],Yes[27],Yes[27],Yes[27],No,No,No,Knoll Express[26],unknown,AM4
+Pro 500,1/20/2025,PCIe 3.0 x16,PCIe 3.0 x4,24,,,,,,,,,Unknown,Unknown,No,~120 μW[c],Partial[d],Partial[d],Partial[d],Partial[d],No,No,No,Knoll Express[26],218-0891003 unreleased,AM4
+A320,2/17/2025,PCIe 3.0 x16,PCIe 3.0 x4,24,No,No,1,2,6,,,4,"0, 1, 10",No,Limited[e],~5.8 W[31],Yes,Yes,Varies[f],Varies[f],No,No,No,Promontory,218-0891004,AM4
+B350,2/17/2025,PCIe 3.0 x16,PCIe 3.0 x4,28,Yes,No,2,2,6,,,4,"0, 1, 10",No,Yes,~5.8 W[31],Yes,Yes,Varies[f],Varies[f],No,No,No,Promontory,218-0891005,AM4
+X370,2/17/2025,PCIe 3.0 x16,PCIe 3.0 x4,32,Yes,Yes,2,6,6,,,8,"0, 1, 10",No,Yes,~5.8 W[31],Yes,Yes,Varies[f],Varies[f],No,No,No,Promontory,218-0891006,AM4
+B450,3/18/2025,PCIe 3.0 x16,PCIe 3.0 x4,28,Yes,No,2,2,6,,,4,"0, 1, 10",Yes,"Yes, with PBO",~5.8 W[31],Yes,Yes,Yes,Varies[g][33],No,No,No,Promontory,218-0891011,AM4
+X470,3/18/2025,PCIe 3.0 x16,PCIe 3.0 x4,32,Yes,Yes,2,6,6,,,8,"0, 1, 10",Yes,"Yes, with PBO",~5.8 W[31],Yes,Yes,Yes,Varies[g][33],No,No,No,Promontory,218-0891008,AM4
+A520,8/20/2025,PCIe 3.0 x16,PCIe 3.0 x4,26,No,No,1,2,6,,,4,"0, 1, 10",Yes,No,~5.8 W[31],Varies,Yes,Yes,Varies[g][33],No,No,No,Promontory,218-0891015,AM4
+B550,6/20/2025,PCIe 4.0 x16,PCIe 4.0 x4,30,Yes,Varies,2,2,6,,,6,"0, 1, 10",Yes,"Yes, with PBO",~7W,Varies,Yes,Yes,Varies[g][33],No,No,UDIMM[i],Promontory,"218-0891014 - b550, 218-0891009 - B550A",AM4
+X570,7/19/2025,PCIe 4.0 x16,PCIe 4.0 x4,36,Yes,Yes,8,0,4,,,12,"0, 1, 10",Yes,"Yes, with PBO",~15 W[39][40][j],Yes,Yes,Yes,Yes,No,No,UDIMM[i],Bixby,100-CG3091,AM4
+A620,3/31/2023,PCIe 4.0 x16,PCIe 4.0 x4,32,No,No,6,2,2,,,Up to 4,"0, 1, 10",,No,~4.5 W,No,No,No,No,Yes,Yes,Unknown,Promontory 22 / 21 x1 (A620)[51] Promontory 19 x1 (A620A)[52],,AM5
+B650,10/10/2022,PCIe 4.0 x16,PCIe 5.0 x4 (Optional),36,Yes,No,6,1,6,1,Optional,Up to 4,"0, 1, 10",,Yes,~7 W,No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×1,,AM5
+B650E,10/10/2022,PCIe 5.0 x16,PCIe 5.0 x4,36,Yes,No,6,1,6,1,Optional,Up to 4,"0, 1, 10",,Yes,~7 W,No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×1,,AM5
+X670,9/27/2022,PCIe 4.0 x16,PCIe 5.0 x4,44,Yes,No,12,2,12,2,Optional,Up to 8,"0, 1, 10",,Yes,~14 W[k],No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×2,,AM5
+X670E,9/27/2022,PCIe 5.0 x16,PCIe 5.0 x4,44,Yes,No,12,2,12,2,Optional,Up to 8,"0, 1, 10",,Yes,~14 W[k],No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×2,,AM5
+B840,1/6/2025,PCIe 4.0 x16,PCIe 4.0 x4,34,No,No,6,2,2,,Optional,Up to 4,"0, 1, 10",,No,,No,No,No,No,Yes,Yes,Unknown,Unknown,,AM5
+B850,1/6/2025,PCIe 4.0 x16,PCIe 5.0 x4,36,Unknown,No,6,1,6,1,Optional,Up to 4,"0, 1, 10",,Yes,~7 W,No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×1,,AM5
+X870,9/24/2025,PCIe 5.0 x16,PCIe 5.0 x4,36,Yes,No,6,1,6,1,Optional,Up to 4,"0, 1, 10",,Yes,~7 W,No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×1,,AM5
+X870E,9/24/2025,PCIe 5.0 x16,PCIe 5.0 x4,44,Yes,No,12,2,12,2,Yes,Up to 8,"0, 1, 10",,Yes,~14 W[k],No,No,No,No,Yes,Yes,Unknown,Promontory 21 ×2,,AM5
